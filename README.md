@@ -5,3 +5,6 @@ moreover, the software git has also been installed.
 i need to do more lab to learn how to use the tools.
 logs
 This is Kevin from the IT Cybersecurity team.
+
+
+Please remain vigilant and take necessary precautions regarding any suspicious or unknown files.
